@@ -2,9 +2,9 @@
 
 🚀 Passionate Software Engineer with expertise in AI, system architecture, and engineering scalable, low-level software
 
-🎓 M.S. in Computer Science from University of Illinois Urbana-Champaign
-
 🏗️ **Senior Software Engineer @ SinaAI.ca** | Previously Software Engineer @ EA Sports
+
+🎓 M.S. in Computer Science from University of Illinois Urbana-Champaign
 
 🔬 Exploring advanced AI models, scalable architecture, and data engineering
 
