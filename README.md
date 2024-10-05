@@ -2,13 +2,15 @@
 
 🚀 Passionate Software Engineer with expertise in AI, system architecture, and engineering scalable, low-level software
 
-🏗️ **Senior Software Engineer @ SinaAI.ca** | Previously Software Engineer @ EA Sports
+🏗️ **Software Engineer working on my startup** | Previously Software Engineer @ EA Sports
 
 🎓 M.S. in Computer Science from University of Illinois Urbana-Champaign
 
 🔬 Exploring advanced AI models, scalable architecture, and data engineering
 
-🎯 Always eager to optimize algorithms and contribute to open-source projects
+🎯 Always eager to contribute to open-source projects
+
+🚀 I have more microservices than users in my startup 
 
 ![](https://komarev.com/ghpvc/?username=elfarradev&color=blue)
 
