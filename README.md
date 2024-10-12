@@ -2,7 +2,7 @@
 
 🚀 Passionate Software Engineer with expertise in AI, system architecture, and engineering scalable, low-level software
 
-🏗️ **Software Engineer working on my startup** | Previously Software Engineer @ EA Sports
+🏗️ **Senior Software Engineer working on my startup** | Previously Software Engineer @ EA Sports
 
 🎓 M.S. in Computer Science from University of Illinois Urbana-Champaign
 
