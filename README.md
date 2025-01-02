@@ -1,7 +1,7 @@
 # 👨‍💻 Ahmed Elfarra
 🚀 Passionate Software Engineer with expertise in AI, system architecture, and engineering scalable, low-level software
 
-🏗️ **Software Engineer working on a startup** | Previously Software Engineer @ EA Sports
+🏗️ **Software Engineer working on a early-stage startup** | Ex-Software Engineer @ EA Sports
 
 🎓 M.S. in Computer Science from University of Illinois Urbana-Champaign
 
@@ -9,7 +9,7 @@
 
 🎯 Always eager to contribute to open-source projects
 
-🚀 I have more microservices than users in my startup 
+🚀 Fun fact: I have more microservices than users in my startup 
 
 <p>
     <a href="mailto:aelfarradev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
