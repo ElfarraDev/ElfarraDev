@@ -1,5 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elfarradev)](https://git.io/streak-stats)
-
 # 👨‍💻 Ahmed Elfarra
 🚀 Passionate Software Engineer with expertise in AI, system architecture, and engineering scalable, low-level software
 🏗️ **Software Engineer working on a early-stage startup** | Ex-Software Engineer @ EA Sports
@@ -15,6 +13,6 @@
 </p>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elfarradev&theme=radical&hide_border=true" height="180" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=elfarradev&theme=radical&hide_border=true" height="180" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfarradev&layout=compact&theme=radical&hide_border=true&card_width=445" height="180" width="49%" />
 </div>
