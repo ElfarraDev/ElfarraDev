@@ -1,9 +1,15 @@
 # 👨‍💻 Ahmed Elfarra
+
 🚀 Passionate Software Engineer with expertise in AI, system architecture, and engineering scalable, low-level software
+
 🏗️ **Software Engineer working on a early-stage startup** | Ex-Software Engineer @ EA Sports
+
 🎓 M.S. in Computer Science from University of Illinois Urbana-Champaign
+
 🔬 Exploring advanced AI models, scalable architecture, and data engineering
+
 🎯 Always eager to contribute to open-source projects
+
 🚀 Fun fact: I have more microservices than users in my startup 
 
 <p>
