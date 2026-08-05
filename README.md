@@ -1,21 +1,14 @@
-# 👨‍💻 Ahmed Elfarra
+# Ahmed Elfarra
 
-🚀 Passionate Software Engineer with expertise in AI, system architecture, and engineering scalable, low-level software
+Sofware Engineer @ Lucid Motors Ex @ EA Sports
 
-🏗️ **Software Engineer working on a early-stage startup** | Ex-Software Engineer @ EA Sports
-
-🎓 M.S. in Computer Science from University of Illinois Urbana-Champaign
-
-🔬 Exploring advanced AI models, scalable architecture, and data engineering
-
-🎯 Always eager to contribute to open-source projects
-
-🚀 Fun fact: I have more microservices than users in my startup 
+M.S. in Computer Science from University of Illinois Urbana-Champaign
+Honours BSc in Computer Science from Western University
+Honours BSc in Applied Mathematics from Western University 
 
 <p>
     <a href="mailto:aelfarradev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/ahmedelfarraa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://elfarra.xyz"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <div>
