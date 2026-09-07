@@ -3,6 +3,7 @@
 **Software Engineer at Lucid Motors** · Previously EA Sports
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ElfarraDev&theme=github-dark&hide_border=true&timezone=America/Toronto)](https://git.io/streak-stats)
 
 ### Education
 
