@@ -1,8 +1,5 @@
 # Ahmed Elfarra
 
-<div align="left">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ElfarraDev&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&background=00000000&border=00000000&stroke=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&currStreakLabel=8B949E&dates=6E7681&disable_animations=true&short_numbers=true&card_width=340&card_height=170&border_radius=16&timezone=America/Toronto" />
-</div>
 **Software Engineer at Lucid Motors** · Previously EA Sports
 
 
@@ -25,3 +22,6 @@ I build reliable platform infrastructure and agentic systems that support produc
 - Distributed infrastructure and cloud services
 - Production software systems with strong reliability and observability
 
+<div align="left">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ElfarraDev&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&background=00000000&border=00000000&stroke=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&currStreakLabel=8B949E&dates=6E7681&disable_animations=true&short_numbers=true&card_width=340&card_height=170&border_radius=16&timezone=America/Toronto" />
+</div>
