@@ -18,6 +18,6 @@ I build reliable platform infrastructure and agentic systems that support produc
 ### Focus Areas
 
 - Platform engineering and internal tooling
-- Agentic system design and orchestration
+- Agentic Engineering
 - Distributed infrastructure and cloud services
 - Production software systems with strong reliability and observability
